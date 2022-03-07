@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Asad Kamal\source\repos\Hospital_managment_System\Hospital_managment_System\Data_Structures.h(75,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asad Kamal\source\repos\Hospital_managment_System\Hospital_managment_System\Pharmacy.h(108,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hospital_managment_System.vcxproj -> C:\Users\Asad Kamal\source\repos\Hospital_managment_System\Debug\Hospital_managment_System.exe
